@@ -6,7 +6,7 @@
 The Google Earth Engine CMIP6 Explorer (GEECE) is an easy to use point and click interface to extract, process, create custom model ensembles and resample CMIP6 simulation data for historical (1950-2015), SSP2-4.5 and SSP5-8.5 scenarios (2015-2100). More details about the tool and case studies of its use can be found in the associated paper (Lea et al., submitted). Users who are interested in reanalysis data output for a variety of difference environments may also wish to use GEECE’s partner tool, the Google Earth Engine Climate Tool (GEEClimT). More information on GEEClimT can be found [here](https://github.com/jmlea16/GEEClimT).
 
 ## Getting started with GEECE
-GEECE and its code is run through Google Earth Engine using JavaScript API. To access the tools click [here](https://liverpool.onlinesurveys.ac.uk/geeclimt-geece-user-survey), where you will be asked for brief user information before being provided with a link to the tool. Once the interface has been opened a welcome page will appear as shown below.
+GEECE and its code is run through Google Earth Engine using JavaScript API. To access the tools click [here](https://liverpool.onlinesurveys.ac.uk/geeclimtgeece-user-survey1), where you will be asked for brief user information before being provided with a link to the tool. Once the interface has been opened a welcome page will appear as shown below.
 
 ![image](https://github.com/jmlea16/GEECE/assets/40822976/97f02c92-ab5c-4848-bbd4-b888a8bee08b)
 
