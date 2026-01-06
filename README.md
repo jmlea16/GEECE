@@ -5,6 +5,9 @@
 
 The Google Earth Engine CMIP6 Explorer (GEECE) is an easy to use point and click interface to extract, process, create custom model ensembles and resample CMIP6 simulation data for historical (1950-2015), SSP2-4.5 and SSP5-8.5 scenarios (2015-2100). More details about the tool and case studies of its use can be found in the associated paper [(Lea et al., 2024)](https://www.frontiersin.org/articles/10.3389/fenvs.2024.1294446/full). Users who are interested in reanalysis data output for a variety of difference environments may also wish to use GEECE’s partner tool, the Google Earth Engine Climate Tool (GEEClimT). More information on GEEClimT can be found [here](https://github.com/jmlea16/GEEClimT).
 
+## How to use GEECE
+The following provides a step by step walkthrough of how to use GEECE, and demonstrates its functionality. **If you have not used Google Earth Engine before you will need to [create a Google Earth Engine account](https://code.earthengine.google.com/register)** and register for a **[non-commerical cloud project](https://console.cloud.google.com/earth-engine/welcome)** before you can use GEECE. A step-by-step guide on how to do this can be found [here](https://github.com/jmlea16/GEE-Tutorials/blob/main/Signing%20up%20and%20creating%20a%20new%20Cloud%20Project.md).  Note that use of GEEClimT through this route is **not** permitted for commercial purposes. Users who wish to use GEECE for commercial purposes should [contact the authors](mailto:j.lea@liverpool.ac.uk). 
+
 ## Getting started with GEECE
 GEECE and its code is run through Google Earth Engine using JavaScript API. If you have not yet got a Google Earth Engine account, you will need to sign up *and* create a new Google Cloud Project. A step-by-step guide on how to do this can be found [here](https://github.com/jmlea16/GEE-Tutorials/blob/main/Signing%20up%20and%20creating%20a%20new%20Cloud%20Project.md). 
 
